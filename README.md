@@ -2,6 +2,8 @@
 
 <a href="https://github.com/Mariannapodbrscek/7daysofcode_marianna">Visualiza mi repositorio</a>
 ________________________________________________________________________
+
+#7DaysOfCode #dia1
 DÍA 1
 ¡Llegó la hora, ! Vas a comenzar tu jornada en el #7DaysOfCode ;)
 
